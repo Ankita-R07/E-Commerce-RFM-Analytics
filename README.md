@@ -166,4 +166,4 @@ Potential next steps and analytical extensions for this project:
 ### Project Status
 **Status :** Completed
 
-* **Delivered Components :** Data auditing, SQL database schema & performance queries, Python RFM calculation & 8 business-oriented customer segments, 3-page interactive Power BI dashboard, and complete portfolio documentation.
+* **Delivered Components :** Data auditing, SQL database schema & performance queries, Python RFM calculation & 8 business-oriented customer segments, 3-page interactive Power BI dashboard.
