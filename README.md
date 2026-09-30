@@ -121,17 +121,17 @@ The labels were deliberately kept natural and business-oriented.
 #### Page 1 — Executive Overview
 
 Focuses on high-level business performance, revenue trends, and key executive KPIs.
-![Executive Overview](powerbi/dashboard%20images/executive%20overview_page%2001.jpg)
+<img width="3075" height="1763" alt="executive overview_page 01" src="https://github.com/user-attachments/assets/36151d6b-1ec8-4ec4-8854-4d500e31d2af" />
 
 #### Page 2 — Customer & RFM Analytics
 
 Focuses on customer valuation, engagement, RFM distribution, and segment breakdown.
-![Executive Overview](powerbi/dashboard%20images/customer%20rfm%20analytics_page%2002.jpg)
+<img width="3075" height="1763" alt="customer rfm analytics_page 02" src="https://github.com/user-attachments/assets/612fe83c-8b80-4a89-b79c-085bdc147c1d" />
 
 #### Page 3 — Product & Sales Performance
 
 Focuses on product revenue contribution, volume trends, and geographic market drivers.
-![Executive Overview](powerbi/dashboard%20images/product%20sales%20performance_page%2003.jpg)
+<img width="3075" height="1763" alt="product sales performance_page 03" src="https://github.com/user-attachments/assets/d3f54a9e-c15d-43e9-b1df-8b34a7e15765" />
 
 All three pages use interactive Date Range and Country slicers.
 
